@@ -1,0 +1,21 @@
+/* table style */
+#new-site-data-table-1 > .table thead tr th {
+    padding-block: .5rem;
+}
+
+#new-site-data-table-1 > .table > :not(caption) > * > * {
+    padding: 0.2rem 1rem;
+}
+
+#new-site-data-table-1 > table > thead > tr:nth-child(1) > th:nth-child(1),
+#new-site-data-table-1 > table > thead > tr:nth-child(1) > th:nth-child(2),
+#new-site-data-table-1 > table > thead > tr:nth-child(2) > th:nth-child(1),
+#new-site-data-table-1 > table > thead > tr:nth-child(2) > th:nth-child(2),
+#new-site-data-table-1 > table > thead > tr:nth-child(2) > th:nth-child(3) {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#new-site-monitoring-rows-1 > tr > td:nth-child(1) {
+    text-align: center;
+}
