@@ -61,4 +61,4 @@
             <!--/ User -->
         </ul>
     </div>
-</nav><?php /**PATH /home/laboge/new-transformers-template/resources/views/components/navbar.blade.php ENDPATH**/ ?>
+</nav><?php /**PATH D:\MAIN\COLLEGE LIFE\Kerja Praktik atau Magang\Tsel\code\tdashboard\resources\views/components/navbar.blade.php ENDPATH**/ ?>

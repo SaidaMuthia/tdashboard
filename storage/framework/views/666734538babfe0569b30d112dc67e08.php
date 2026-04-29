@@ -844,4 +844,4 @@ $segment = $requestSegment <> '' ? $requestSegment : 'visualization-rows'
         <?php echo $__env->yieldPushContent('visualization-rows-js'); ?>
     </body>
 
-    </html><?php /**PATH /home/laboge/new-transformers-template/resources/views/visualization-rows.blade.php ENDPATH**/ ?>
+    </html><?php /**PATH D:\MAIN\COLLEGE LIFE\Kerja Praktik atau Magang\Tsel\code\tdashboard\resources\views/visualization-rows.blade.php ENDPATH**/ ?>

@@ -123,4 +123,4 @@ return $transformSubMenu;
     <!-- Layouts -->
     
   </ul>
-</aside><?php /**PATH /home/laboge/new-transformers-template/resources/views/components/menu.blade.php ENDPATH**/ ?>
+</aside><?php /**PATH D:\MAIN\COLLEGE LIFE\Kerja Praktik atau Magang\Tsel\code\tdashboard\resources\views/components/menu.blade.php ENDPATH**/ ?>

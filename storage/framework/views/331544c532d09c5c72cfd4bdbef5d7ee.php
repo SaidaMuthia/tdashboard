@@ -306,4 +306,4 @@ $segment = $requestSegment <> '' ? $requestSegment : 'new-site-monitoring'
         <?php echo $__env->yieldPushContent('weekly-report-js'); ?>
     </body>
 
-    </html><?php /**PATH /home/laboge/new-transformers-template/resources/views/main.blade.php ENDPATH**/ ?>
+    </html><?php /**PATH D:\MAIN\COLLEGE LIFE\Kerja Praktik atau Magang\Tsel\code\tdashboard\resources\views/main.blade.php ENDPATH**/ ?>
